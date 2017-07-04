@@ -1,5 +1,7 @@
 # Launching a webserver on AWS using Cloudformation
 
+## Note: This is meant to be used as a sample template/reference/resource.
+
 This cloudformation stack launches the following resources: 
 
 - An instance with webserver configured 
