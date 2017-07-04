@@ -1,0 +1,30 @@
+[
+  {
+    "ParameterKey": "EnvironmentName",
+    "ParameterValue": "dev"
+  }, 
+  {
+    "ParameterKey": "InstanceType",
+    "ParameterValue": "t2.small"
+  },
+  {
+    "ParameterKey": "KeyName",
+    "ParameterValue": "Key"
+  },
+  {
+    "ParameterKey": "ALBSubnet1",
+    "ParameterValue": "SubnetId"
+  },
+  {
+    "ParameterKey": "ALBSubnet2",
+    "ParameterValue": "SubnetId"
+  },
+  {
+    "ParameterKey": "VPC",
+    "ParameterValue": "VPCId"
+  },
+  {
+    "ParameterKey": "EC2Subnet",
+    "ParameterValue": "SubnetId"
+  } 
+]
