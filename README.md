@@ -1,6 +1,4 @@
-# miniproject-POORKAY-DORRIN
-
-## Launching a webserver on AWS using Cloudformation
+# Launching a webserver on AWS using Cloudformation
 
 This cloudformation stack launches the following resources: 
 
