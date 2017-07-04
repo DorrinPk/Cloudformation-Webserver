@@ -17,7 +17,7 @@ Resources:
           #!/bin/bash -xe
           apt-get update -y 
           apt-get install nginx -y 
-          echo "Automation for the People" >> /var/www/html/index.html
+          echo "hello!" >> /var/www/html/index.html
           service nginx restart       
       
 
